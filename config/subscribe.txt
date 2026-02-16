@@ -1,8 +1,18 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-
-
+https://tv.iill.top/m3u/Gather
+https://bit.ly/iptv-aptv
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi.m3u
+https://bit.ly/suxuang
+https://github.com/YueChan/Live.git
+https://github.com/judy-gotv/iptv.git
+https://epg.pw/test_channels_hong_kong.m3u
+https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
+https://iptv.catvod.com/tv.m3u
+https://iptv-org.github.io/iptv/index.m3u
+https://iptv.zsdc.eu.org
 
 
 [WHITELIST]
